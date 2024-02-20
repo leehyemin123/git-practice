@@ -3,4 +3,5 @@ public Class Board(){
     String title = "제목";
     String content ="내용";
     String test = "상용";
+    String test = "수지";
 }
