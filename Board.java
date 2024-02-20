@@ -5,4 +5,5 @@ public Class Board(){
     String test = "상용";
     String test = "수지";
     int no = 2;
+    int c = 30;
 }
