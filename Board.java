@@ -4,4 +4,5 @@ public Class Board(){
     String content ="내용";
     String test = "상용";
     String test = "수지";
+    int no = 2;
 }
